@@ -11,6 +11,7 @@
 ## 3. Danh sách tài liệu tham khảo
 
 | STT | Tên bài báo/tài liệu | Tác giả | Năm xuất bản | Tạp chí/Nguồn trích dẫn |
-| 1 | The Effectiveness of Using Artificial Intelligence on Learning Vocabulary | Mohamed Hmouma | 2026 | Espiaa Faculty of Education, Ajafara University |
-| 2 | Modern Technologies in Language Learning | Prof. Munassir Alhamami | 2026 | Department of English, College of Languages and Translation |
-| 3 | ENDOECOLOGICAL ECOLINGUISTICS A FRAMEWORK | Nabil Al-Awawdeh | 2026 | Cambridge Scholars Publishing |
+|---|---|---|---|---|
+| 1 | The Effectiveness of Using Artificial Intelligence on Learning Vocabulary | Mohamed Hmouma | 2026 | Espia Faculty of Education, Ajafara University |
+| 2 | Modern Technologies in Language Learning | Prof. Munassir Ahmami | 2026 | Department of English, College of Languages and Translation |
+| 3 | ENDOECOLOGICAL ECOLINGUISTICS: A FRAMEWORK | Nabil Al-Awadeh | 2026 | Cambridge Scholars Publishing |
